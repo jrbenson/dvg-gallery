@@ -28,17 +28,23 @@ This collection holds illustratations that are not domain specific and instead a
 
 This collection is a holding ground before svgs are formally sorted into a permanent collection and a place for svgs used to test the system. As such links to them are particularly likely to be broken in the future.
 
-**Airplane Top**
+**Airplane Top**<br/>
+`https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/airplane-top.svg`
 
-```url
-https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/airplane-top.svg
-```
+**Airplane Side**<br/>
+`https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/airplane-side.svg`
 
-**Airplane Side**
+**Liquid Vial Gauge**<br/>
+`https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/gauge-liquid.svg`
 
-```url
-https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/airplane-side.svg
-```
+**Liquid Conductance Gauge**<br/>
+`https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/gauge-liquidconductance.svg`
+
+**Test Strip Gauge**<br/>
+`https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/gauge-teststrip.svg`
+
+**Temperature Gauge**<br/>
+`https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/gauge-temperature.svg`
 
 ## JSON Format
 
