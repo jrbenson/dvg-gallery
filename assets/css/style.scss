@@ -18,6 +18,10 @@
   color: #373737;
 }
 
+img[alt=thumbnail] {
+  height: 128px;
+}
+
 img,
 code {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
