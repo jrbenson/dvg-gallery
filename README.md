@@ -1,7 +1,5 @@
 <!-- {% raw %} -->
 
-# Dynamic Vector Graphics Gallery
-
 The project holds a gallery that organizes svg files annotated for the [Dynamic Vector Graphics](https://jrbenson.github.io/dynamic-vector-graphics) library.
 
 ## Usage
