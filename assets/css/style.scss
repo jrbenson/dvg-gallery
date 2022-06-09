@@ -19,7 +19,8 @@
 }
 
 img[alt=thumbnail] {
-  height: 128px;
+  height: 96px;
+  max-width: 256px;
 }
 
 img,

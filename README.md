@@ -12,37 +12,36 @@ For production use the annotated svg files and the Dynamic Vector Graphics libra
 
 This collection holds domain-specific illustrations for industries like healthcare or banking.
 
-#### Vaccination
-
-Illustrations related to vaccination and disease prevention.
-
-#### Automotive
-
-Illustrations related to automotive concepts.
+(In Progress)
 
 ### General
 
 This collection holds illustratations that are not domain specific and instead are focused on a particular visual look or theme.
 
+(In Progress)
+
 ### Test
 
 This collection is a holding ground before svgs are formally sorted into a permanent collection and a place for svgs used to test the system. As such links to them are particularly likely to be broken in the future.
 
-**Airplane Top**
+##### Airplane Top
+
 ![thumbnail](./svg/test/airplane-top.svg)
 
 ```url
 https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/airplane-top.svg
 ```
 
-**Airplane Profile**
+##### Airplane Profile
+
 ![thumbnail](./svg/test/airplane-profile.svg)
 
 ```url
 https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/airplane-profile.svg
 ```
 
-**Temperature Gauge**
+##### Temperature Gauge
+
 ![thumbnail](./svg/test/gauge-temperature.svg)
 
 ```url
