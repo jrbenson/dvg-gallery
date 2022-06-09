@@ -1,0 +1,45 @@
+<svg width="417" height="463" viewBox="0 0 417 463" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="gauge-thermometer" clip-path="url(#clip0_969_45)">
+<path id="Outline" d="M205.67 350.28V22C205.67 16.48 203.43 11.48 199.81 7.86C196.19 4.24 191.19 2 185.67 2C174.62 2 165.67 10.95 165.67 22V350.28C156.6 356.6 150.67 367.11 150.67 379C150.67 398.33 166.34 414 185.67 414C205 414 220.67 398.33 220.67 379C220.67 367.11 214.74 356.6 205.67 350.28Z" stroke="#A0A0A0" stroke-width="4" stroke-miterlimit="10"/>
+<path id="Bulb" d="M197.67 354.81V333H173.67V354.81C164.78 359.23 158.67 368.4 158.67 379C158.67 393.91 170.76 406 185.67 406C200.58 406 212.67 393.91 212.67 379C212.67 368.4 206.56 359.23 197.67 354.81Z" fill="#2F90EC"/>
+<path id="Bar {{scaleY:#0,origin:0.5;1.0}}" d="M197.67 33H173.67V335H197.67V33Z" fill="#2F90EC"/>
+<path id="Highlight" opacity="0.25" fill-rule="evenodd" clip-rule="evenodd" d="M173.67 33H185.67V335V406C170.76 406 158.67 393.91 158.67 379C158.67 368.4 164.78 359.23 173.67 354.81V335V33Z" fill="url(#paint0_linear_969_45)"/>
+<g id="Value {{positionY:#0,guide:bar}}">
+<g id="Arrow">
+<path id="Vector" d="M200.43 335.03L217.67 325.83V343.07L200.43 335.03Z" fill="#1D1D1D"/>
+<path id="Vector_2" d="M216.67 327.5V341.5L202.67 334.97L216.67 327.5ZM218.67 324.17L215.73 325.74L201.73 333.21L198.2 335.09L201.83 336.78L215.83 343.31L218.68 344.64V324.17H218.67V324.17Z" fill="white"/>
+</g>
+<text id="{{textAlign:start}}" fill="#2F90EC" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="60" letter-spacing="0em"><tspan x="224.31" y="350.248">{{#0|c}}</tspan></text>
+</g>
+<g id="Segments" opacity="0.2">
+<path id="Vector_3" opacity="0.2" d="M205.67 334H165.67" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path id="Vector_4" opacity="0.2" d="M205.67 259H165.67" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path id="Vector_5" opacity="0.2" d="M205.67 184H165.67" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path id="Vector_6" opacity="0.2" d="M205.67 109H165.67" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+<path id="Vector_7" opacity="0.2" d="M205.67 34H165.67" stroke="black" stroke-width="2" stroke-miterlimit="10"/>
+</g>
+<g id="Tick Marks">
+<path id="Vector_8" d="M163.67 334H151.67" stroke="#A0A0A0" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_9" d="M163.67 259H151.67" stroke="#A0A0A0" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_10" d="M163.67 184H151.67" stroke="#A0A0A0" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_11" d="M163.67 109H151.67" stroke="#A0A0A0" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+<path id="Vector_12" d="M163.67 34H151.67" stroke="#A0A0A0" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+<text id="{{textAlign:end}}" fill="#696969" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0em"><tspan x="33" y="340.123">{{#0|c,r:0}}</tspan></text>
+<text id="{{textAlign:end}}_2" fill="#696969" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0em"><tspan x="0" y="265.123">{{#0|c,r:0.25}}</tspan></text>
+<text id="{{textAlign:end}}_3" fill="#696969" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0em"><tspan x="14" y="190.123">{{#0|c,r:0.5}}</tspan></text>
+<text id="{{textAlign:end}}_4" fill="#696969" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0em"><tspan x="0" y="115.123">{{#0|c,r:0.75}}</tspan></text>
+<text id="{{textAlign:end}}_5" fill="#696969" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0em"><tspan x="34" y="40.1231">{{#0|c,r:1}}</tspan></text>
+<text id="{{textAlign:middle}}" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="26" font-weight="bold" letter-spacing="0em"><tspan x="143.103" y="447.887">{{#0|n}}</tspan></text>
+<line id="{{bar}}" opacity="0.01" x1="205.5" y1="334" x2="205.5" y2="34" stroke="black"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_969_45" x1="173.67" y1="184" x2="1.00005" y2="184" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0.3"/>
+</linearGradient>
+<clipPath id="clip0_969_45">
+<rect width="416.79" height="462.4" fill="white"/>
+</clipPath>
+</defs>
+</svg>

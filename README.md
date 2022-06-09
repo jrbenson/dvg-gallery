@@ -37,7 +37,7 @@ https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.
 **Airplane Side**
 
 ```url
-https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/airplane-side.svg
+https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/airplane-profile.svg
 ```
 
 **Liquid Vial Gauge**
@@ -62,6 +62,7 @@ https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.
 
 ```url
 https://jrbenson.github.io/sas-visualanalytics-dvg/?svg=https://jrbenson.github.io/dvg-gallery/svg/test/gauge-temperature.svg
+```
 
 ## JSON Format
 
@@ -70,4 +71,7 @@ To facilitate searching or use in other tools the gallery information is stored 
 [gallery.json](./gallery.json)
 
 <!-- {% endraw %} -->
+
+```
+
 ```
