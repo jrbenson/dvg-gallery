@@ -4022,7 +4022,7 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 	</image>
 </symbol>
 <g id="_x7B__x7B_f:4_x7D__x7D_">
-	<g id="_x7B__x7B__x23_0_x7C_name_x7D__x7D__00000060713062528250789900000003091183955041274755_">
+	<g id="_x7B__x7B__x40_0_x7D__x7D__00000157296566669617773620000015880822934343059075_">
 		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 1087.1372 896.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
@@ -4039,7 +4039,7 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 	<line id="_x7B__x7B_valuePath4_x7D__x7D_" fill="none" x1="1089" y1="848" x2="1089" y2="278"/>
 </g>
 <g id="_x7B__x7B_f:3_x7D__x7D_">
-	<g id="_x7B__x7B__x23_0_x7C_name_x7D__x7D__00000127009094979802243500000014635172760387471519_">
+	<g id="_x7B__x7B__x40_0_x7D__x7D__00000138533392071680708490000015300137492088912540_">
 		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 907.1371 896.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
@@ -4056,7 +4056,7 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 	<line id="_x7B__x7B_valuePath3_x7D__x7D_" fill="none" x1="908" y1="848" x2="908" y2="278"/>
 </g>
 <g id="_x7B__x7B_f:2_x7D__x7D_">
-	<g id="_x7B__x7B__x23_0_x7C_name_x7D__x7D__00000168829521535712550000000000423913441847492792_">
+	<g id="_x7B__x7B__x40_0_x7D__x7D__00000165956119776611866340000003627742748026091396_">
 		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 727.1371 896.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
@@ -4073,7 +4073,7 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 	<line id="_x7B__x7B_valuePath2_x7D__x7D_" fill="none" x1="728" y1="848" x2="728" y2="278"/>
 </g>
 <g id="_x7B__x7B_f:1_x7D__x7D_">
-	<g id="_x7B__x7B__x23_0_x7C_name_x7D__x7D_">
+	<g id="_x7B__x7B__x40_0_x7D__x7D__00000078724127545819390140000016199314259758367873_">
 		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 547.1371 896.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
@@ -4091,7 +4091,7 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 	<line id="_x7B__x7B_valuePath1_x7D__x7D_" fill="none" x1="548" y1="848" x2="548" y2="278"/>
 </g>
 <g id="_x7B__x7B_f:0_x7D__x7D_">
-	<g id="_x7B__x7B__x23_0_x7C_name_x7D__x7D__00000036217810468234278590000006940529199335296642_">
+	<g id="_x7B__x7B__x40_0_x7D__x7D_">
 		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 367.1372 896.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
@@ -4113,26 +4113,26 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 	</g>
 </g>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000132056235171051559440000011664139615517041324_">
-	<text transform="matrix(1 0 0 1 93.9279 858.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0}}</text>
+	<text transform="matrix(1 0 0 1 111.5792 858.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0}}</text>
 </g>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000038385486704656186760000005353090783833645736_">
-	<text transform="matrix(1 0 0 1 93.7872 747.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.2}}</text>
+	<text transform="matrix(1 0 0 1 88.7863 747.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.2}}</text>
 </g>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000127741591274297779680000017889764580240601479_">
-	<text transform="matrix(1 0 0 1 93.3673 630.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.4}}</text>
+	<text transform="matrix(1 0 0 1 88.3663 630.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.4}}</text>
 </g>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000138548770466036636290000017880334509479671743_">
-	<text transform="matrix(1 0 0 1 94.3751 516.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.6}}</text>
+	<text transform="matrix(1 0 0 1 89.3741 516.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.6}}</text>
 </g>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000125588002375675149460000003405183699343433610_">
-	<text transform="matrix(1 0 0 1 94.2072 402.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.8}}</text>
+	<text transform="matrix(1 0 0 1 89.2062 402.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.8}}</text>
 </g>
 <g id="_x7B__x7B_ta:end_x7D__x7D_">
-	<text transform="matrix(1 0 0 1 99.9474 289.1483)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:1}}</text>
+	<text transform="matrix(1 0 0 1 117.5997 289.1483)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:1}}</text>
 </g>
 <g id="y_axis_label">
 	<g>
-		<text transform="matrix(1 0 0 1 95.4683 230.8934)" font-family="'Barlow-Medium'" font-size="34px">Countries</text>
+		<text transform="matrix(1 0 0 1 90.4683 230.8934)" font-family="'Barlow-Medium'" font-size="34px">Countries</text>
 	</g>
 </g>
 <g id="title">
