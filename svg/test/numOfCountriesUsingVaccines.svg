@@ -4151,8 +4151,8 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 	</g>
 </g>
 <g id="title">
-	<text transform="matrix(1 0 0 1 704 77.9677)" font-family="'Barlow-Regular'" font-size="48px">{{@1}}</text>
-	<text transform="matrix(1 0 0 1 306 77.9677)" font-family="'Barlow-Regular'" font-size="48px">Top 5 Vaccines For</text>
+	<text transform="matrix(1 0 0 1 754 77.9677)" font-family="'Barlow-Regular'" font-size="48px">{{@1}}</text>
+	<text transform="matrix(1 0 0 1 356 77.9677)" font-family="'Barlow-Regular'" font-size="48px">Top 5 Vaccines For</text>
 </g>
 <g id="y_axis_lines" opacity="0.3">
 	<g>
