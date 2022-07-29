@@ -4113,12 +4113,12 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 	</g>
 </g>
 <g id="_x7B__x7B_ta:end_x7D__x7D_">
-	<text transform="matrix(1 0 0 1 105.3707 857.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:.0}}</text>
-	<text transform="matrix(1 0 0 1 106.1823 746.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:.2}}</text>
-	<text transform="matrix(1 0 0 1 106.7623 629.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:.4}}</text>
-	<text transform="matrix(1 0 0 1 107.7701 515.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:.6}}</text>
-	<text transform="matrix(1 0 0 1 107.6027 401.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:.8}}</text>
-	<text transform="matrix(1 0 0 1 120.1744 288.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:1}}</text>
+	<text transform="matrix(1 0 0 1 105.3707 857.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.0}}</text>
+	<text transform="matrix(1 0 0 1 106.1823 746.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.2}}</text>
+	<text transform="matrix(1 0 0 1 106.7623 629.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.4}}</text>
+	<text transform="matrix(1 0 0 1 107.7701 515.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.6}}</text>
+	<text transform="matrix(1 0 0 1 107.6027 401.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:0.8}}</text>
+	<text transform="matrix(1 0 0 1 120.1744 288.8782)" font-family="'Barlow-Regular'" font-size="28px">{{#1|c,r:1.0}}</text>
 </g>
 <g id="y_axis_label">
 	<g>
