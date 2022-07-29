@@ -4039,8 +4039,6 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 			<text transform="matrix(1 0 0 1 1017.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
-	
-		<line id="_x7B__x7B_valuePath4_x7D__x7D__00000023264740872463758000000014932432004725180811_" fill="none" x1="1089" y1="828" x2="1089" y2="258"/>
 </g>
 <g id="_x7B__x7B_f:3_x7D__x7D_">
 	<g id="_x7B__x7B__x40_0_x7D__x7D__00000113312166914770644890000008911223490380458685_">
@@ -4060,8 +4058,6 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 			<text transform="matrix(1 0 0 1 837.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
-	
-		<line id="_x7B__x7B_valuePath3_x7D__x7D__00000174571831057562837950000005995547571415199905_" fill="none" x1="908" y1="828" x2="908" y2="258"/>
 </g>
 <g id="_x7B__x7B_f:2_x7D__x7D_">
 	<g id="_x7B__x7B__x40_0_x7D__x7D__00000075125882796532339740000012153966351411607442_">
@@ -4081,8 +4077,6 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 			<text transform="matrix(1 0 0 1 657.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
-	
-		<line id="_x7B__x7B_valuePath2_x7D__x7D__00000092436528927928354030000017260960198023031181_" fill="none" x1="728" y1="828" x2="728" y2="258"/>
 </g>
 <g id="_x7B__x7B_f:1_x7D__x7D_">
 	<g id="_x7B__x7B__x40_0_x7D__x7D__00000120556375411731361920000017150747468490872967_">
@@ -4103,8 +4097,6 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 				<text id="_x7B__x7B__x23_0_x7C_c_x7D__x7D__00000169551587639484149670000004126955321451428483_" transform="matrix(1 0 0 1 477.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
-	
-		<line id="_x7B__x7B_valuePath1_x7D__x7D__00000114071689095988181320000009301391438053396140_" fill="none" x1="548" y1="828" x2="548" y2="258"/>
 </g>
 <g id="_x7B__x7B_f:0_x7D__x7D_">
 	<g id="_x7B__x7B__x40_0_x7D__x7D__00000032615794762057007660000017793116958136426935_">
@@ -4124,9 +4116,12 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 				<text id="_x7B__x7B__x23_0_x7C_c_x7D__x7D_" transform="matrix(1 0 0 1 297.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
-	
-		<line id="_x7B__x7B_valuePath0_x7D__x7D__00000142156734653760179010000009598685237364244141_" fill="none" x1="368" y1="828" x2="368" y2="258"/>
 </g>
+<line id="_x7B__x7B_valuePath4_x7D__x7D__00000023264740872463758000000014932432004725180811_" fill="none" x1="1089" y1="828" x2="1089" y2="258"/>
+<line id="_x7B__x7B_valuePath3_x7D__x7D__00000174571831057562837950000005995547571415199905_" fill="none" x1="908" y1="828" x2="908" y2="258"/>
+<line id="_x7B__x7B_valuePath2_x7D__x7D__00000092436528927928354030000017260960198023031181_" fill="none" x1="728" y1="828" x2="728" y2="258"/>
+<line id="_x7B__x7B_valuePath1_x7D__x7D__00000114071689095988181320000009301391438053396140_" fill="none" x1="548" y1="828" x2="548" y2="258"/>
+<line id="_x7B__x7B_valuePath0_x7D__x7D__00000142156734653760179010000009598685237364244141_" fill="none" x1="368" y1="828" x2="368" y2="258"/>
 <g id="x_axis_label">
 	<g>
 		<text transform="matrix(1 0 0 1 671.0002 1097.8938)" font-family="'Barlow-Medium'" font-size="34px">Vaccine</text>
