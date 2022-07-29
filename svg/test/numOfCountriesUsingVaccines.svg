@@ -4107,6 +4107,12 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 	<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D_" x="324" y="258" fill="#1972BC" width="90" height="570"/>
 	
 		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 260 113)" overflow="visible"/>
+</g>
+<line id="_x7B__x7B_valuePath4_x7D__x7D__00000023264740872463758000000014932432004725180811_" fill="none" x1="1089" y1="258" x2="1089" y2="828"/>
+<line id="_x7B__x7B_valuePath3_x7D__x7D__00000174571831057562837950000005995547571415199905_" fill="none" x1="908" y1="258" x2="908" y2="828"/>
+<line id="_x7B__x7B_valuePath2_x7D__x7D__00000092436528927928354030000017260960198023031181_" fill="none" x1="728" y1="258" x2="728" y2="828"/>
+<line id="_x7B__x7B_valuePath1_x7D__x7D__00000114071689095988181320000009301391438053396140_" fill="none" x1="548" y1="258" x2="548" y2="828"/>
+<g id="_x7B__x7B_f:0_x7D__x7D__00000182502009481002822940000017341558167249559989_">
 	<g id="_x7B__x7B_py:_x23_0_x2C_g:valuePath0_x2C_o:.5_x3B_1_x7D__x7D_">
 		<g id="spacer">
 			<rect x="293" y="210" fill="none" width="150" height="48"/>
@@ -4117,11 +4123,12 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 		</g>
 	</g>
 </g>
-<line id="_x7B__x7B_valuePath4_x7D__x7D__00000023264740872463758000000014932432004725180811_" fill="none" x1="1089" y1="828" x2="1089" y2="258"/>
-<line id="_x7B__x7B_valuePath3_x7D__x7D__00000174571831057562837950000005995547571415199905_" fill="none" x1="908" y1="828" x2="908" y2="258"/>
-<line id="_x7B__x7B_valuePath2_x7D__x7D__00000092436528927928354030000017260960198023031181_" fill="none" x1="728" y1="828" x2="728" y2="258"/>
-<line id="_x7B__x7B_valuePath1_x7D__x7D__00000114071689095988181320000009301391438053396140_" fill="none" x1="548" y1="828" x2="548" y2="258"/>
-<line id="_x7B__x7B_valuePath0_x7D__x7D__00000142156734653760179010000009598685237364244141_" fill="none" x1="368" y1="828" x2="368" y2="258"/>
+<line id="_x7B__x7B_valuePath0_x7D__x7D__00000142156734653760179010000009598685237364244141_" fill="none" x1="368" y1="258" x2="368" y2="828"/>
+<g id="x_axis_label">
+	<g>
+		<text transform="matrix(1 0 0 1 671.0002 1097.8938)" font-family="'Barlow-Medium'" font-size="34px">Vaccine</text>
+	</g>
+</g>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000132056235171051559440000011664139615517041324_">
 	<text transform="matrix(1 0 0 1 106.5597 838.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0}}</text>
 </g>
@@ -4145,13 +4152,8 @@ fwEGAD/wXwJuiq0cAAAAAElFTkSuQmCC" transform="matrix(0.5867 0 0 -0.5867 0 0)">
 		<text transform="matrix(1 0 0 1 91.4683 210.8934)" font-family="'Barlow-Medium'" font-size="34px">Countries</text>
 	</g>
 </g>
-<g id="x_axis_label">
-	<g>
-		<text transform="matrix(1 0 0 1 671.0002 1097.8938)" font-family="'Barlow-Medium'" font-size="34px">Vaccine</text>
-	</g>
-</g>
 <g id="title">
-	<text transform="matrix(1 0 0 1 390 77.9677)" font-family="'Barlow-Regular'" font-size="48px">Top 5 Vaccines By Country Count</text>
+	<text transform="matrix(1 0 0 1 395 77.9677)" font-family="'Barlow-Regular'" font-size="48px">Top 5 Vaccines By Country Usage</text>
 </g>
 <g id="y_axis_lines" opacity="0.3">
 	<g>
