@@ -20328,29 +20328,13 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 	<defs>
 		<circle id="mask_00000015332310124365348040000000434194646307296167_" cx="598" cy="564" r="141"/>
 	</defs>
-	<clipPath id="mask_00000135690220669742799080000012443175893673496203_">
+	<clipPath id="mask_00000098204317497174072140000003970592529680742820_">
 		<use xlink:href="#mask_00000015332310124365348040000000434194646307296167_"  overflow="visible"/>
 	</clipPath>
-	<g clip-path="url(#mask_00000135690220669742799080000012443175893673496203_)">
+	<g clip-path="url(#mask_00000098204317497174072140000003970592529680742820_)">
 		
 			<use xlink:href="#radarChart"  width="682.78" height="677.21" id="radarChart_x5F_background" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 	</g>
-</g>
-<g id="_x7B__x7B_f:3_x7D__x7D__00000142136554610940430510000015945855335578255261_">
-	
-		<rect id="_x7B__x7B_p:_x23_0_x2C_g:maskPath3_x2C_o:1_x3B_.5_x7D__x7D_" x="640" y="476" transform="matrix(-1.961553e-08 1 -1 -1.961553e-08 1214 -86)" fill="#FF0000" width="20" height="176"/>
-	<line id="_x7B__x7B_maskPath3_x7D__x7D_" fill="none" x1="738" y1="564" x2="914" y2="564"/>
-</g>
-<g id="_x7B__x7B_f:2_x7D__x7D__00000062194456065468868060000015855822581098276495_">
-	
-		<rect id="_x7B__x7B_p:_x23_0_x2C_g:maskPath2_x2C_o:.975_x3B_.025_x7D__x7D_" x="632.56" y="450.32" transform="matrix(0.5 0.866 -0.866 0.5 787.4792 -287.3185)" fill="#FF0000" width="20" height="176"/>
-	<line id="_x7B__x7B_maskPath2_x7D__x7D_" fill="none" x1="718.56" y1="494.68" x2="870.99" y2="406.68"/>
-</g>
-<g id="_x7B__x7B_f:1_x7D__x7D__00000138550533857206148900000011431513231610955929_">
-	
-		<rect id="_x7B__x7B_p:_x23_0_x2C_g:maskPath1_x2C_o:.95_x3B_.05_x7D__x7D_" x="614" y="431" transform="matrix(0.866 0.5 -0.5 0.866 343.1002 -242.4672)" fill="#FF0000" width="20" height="176"/>
-	
-		<line id="_x7B__x7B_maskPath1_x7D__x7D__00000094600988092020503280000014041742492163132292_" fill="none" x1="668" y1="443.21" x2="756" y2="290.79"/>
 </g>
 <g id="spoke00_x5F_container">
 	<defs>
@@ -20359,7 +20343,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 		</filter>
 	</defs>
 	
-		<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke00_00000093158743460990336590000006133419502605288604_">
+		<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke00_00000049931641996356512450000014762673936961991098_">
 		<g id="_x7B__x7B_f:0_x7D__x7D__00000158712564817265752850000004568518709058931856_" filter="url(#Adobe_OpacityMaskFilter)">
 			
 				<rect id="_x7B__x7B_p:_x23_0_x2C_g:maskPath0_x2C_o:.5_x3B_0_x7D__x7D_" x="588" y="424" fill="#FFFFFF" width="20" height="176"/>
@@ -20367,11 +20351,26 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 				<line id="_x7B__x7B_maskPath0_x7D__x7D__00000034088839984984859920000009041086011678078392_" fill="none" x1="598" y1="424" x2="598" y2="248"/>
 		</g>
 	</mask>
-	<g mask="url(#spoke00_00000093158743460990336590000006133419502605288604_)">
+	<g mask="url(#spoke00_00000049931641996356512450000014762673936961991098_)">
 		
 			<use xlink:href="#radarChart"  width="682.78" height="677.21" id="spoke00_00000111160801903696542400000006831745405627121286_" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 	</g>
 </g>
+<g id="_x7B__x7B_f:3_x7D__x7D__00000142136554610940430510000015945855335578255261_">
+	
+		<rect id="_x7B__x7B_p:_x23_0_x2C_g:maskPath3_x2C_o:1_x3B_.5_x7D__x7D_" x="640" y="476" transform="matrix(-1.961553e-08 1 -1 -1.961553e-08 1214 -86)" fill="#FF0000" width="20" height="176"/>
+</g>
+<line id="_x7B__x7B_maskPath3_x7D__x7D_" fill="none" x1="738" y1="564" x2="914" y2="564"/>
+<g id="_x7B__x7B_f:2_x7D__x7D__00000062194456065468868060000015855822581098276495_">
+	
+		<rect id="_x7B__x7B_p:_x23_0_x2C_g:maskPath2_x2C_o:.975_x3B_.025_x7D__x7D_" x="632.56" y="450.32" transform="matrix(0.5 0.866 -0.866 0.5 787.4792 -287.3185)" fill="#FF0000" width="20" height="176"/>
+</g>
+<line id="_x7B__x7B_maskPath2_x7D__x7D_" fill="none" x1="718.56" y1="494.68" x2="870.99" y2="406.68"/>
+<g id="_x7B__x7B_f:1_x7D__x7D__00000138550533857206148900000011431513231610955929_">
+	
+		<rect id="_x7B__x7B_p:_x23_0_x2C_g:maskPath1_x2C_o:.95_x3B_.05_x7D__x7D_" x="614" y="431" transform="matrix(0.866 0.5 -0.5 0.866 343.1002 -242.4672)" fill="#FF0000" width="20" height="176"/>
+</g>
+<line id="_x7B__x7B_maskPath1_x7D__x7D__00000094600988092020503280000014041742492163132292_" fill="none" x1="668" y1="443.21" x2="756" y2="290.79"/>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000048492054409696722330000006558411793371764608_">
 	<text transform="matrix(1 0 0 1 487 418.4023)" font-family="'Barlow-Regular'" font-size="22px">{{#0|c,r:0}}</text>
 </g>
