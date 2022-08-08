@@ -23029,20 +23029,22 @@ RK5CYII=" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.6057)">
 	
 		<circle id="_x31_00_00000127039781339660518760000003982016992767388588_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="598" cy="564" r="315"/>
 </g>
-<defs>
-	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21">
-		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-	</filter>
-</defs>
-<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke00_00000148644527691348771820000008736018306280413327_">
-	<g id="_x7B__x7B_f:0_x7D__x7D__00000158712564817265752850000004568518709058931856_" filter="url(#Adobe_OpacityMaskFilter)">
-		<rect id="_x7B__x7B_p:_x23_0_x2C_g:maskPath0_x7D__x7D_" x="583" y="424" fill="#FFFFFF" width="30" height="176"/>
-		<path id="_x7B__x7B_maskPath0_x7D__x7D_" fill="none" d="M598,424V248"/>
+<g id="_x7B__x7B_f:0_x7D__x7D__00000039111078220082485500000009469946129492378774_">
+	<g>
+		<defs>
+			
+				<rect id="_x7B__x7B_p:_x23_0_x2C_g:maskPath0_x7D__x7D__00000039116247188145865020000016215521509500530583_" x="583" y="424" width="30" height="176"/>
+		</defs>
+		<clipPath id="_x7B__x7B_p:_x23_0_x2C_g:maskPath0_x7D__x7D__00000041284070311559733020000009547837143120473757_">
+			
+				<use xlink:href="#_x7B__x7B_p:_x23_0_x2C_g:maskPath0_x7D__x7D__00000039116247188145865020000016215521509500530583_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#_x7B__x7B_p:_x23_0_x2C_g:maskPath0_x7D__x7D__00000041284070311559733020000009547837143120473757_)">
+			
+				<use xlink:href="#radarChart_x5F_appendages"  width="682.78" height="677.21" id="spoke00_00000111160801903696542400000006831745405627121286_" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
+		</g>
 	</g>
-</mask>
-<g mask="url(#spoke00_00000148644527691348771820000008736018306280413327_)">
-	
-		<use xlink:href="#radarChart_x5F_appendages"  width="682.78" height="677.21" id="spoke00_00000111160801903696542400000006831745405627121286_" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
+	<path id="_x7B__x7B_maskPath0_x7D__x7D__00000110440090608247627540000002848907447878321549_" fill="none" d="M598,424V248"/>
 </g>
 <use xlink:href="#radarChart"  width="682.78" height="677.21" id="radarChart_x5F_background" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000048492054409696722330000006558411793371764608_">
