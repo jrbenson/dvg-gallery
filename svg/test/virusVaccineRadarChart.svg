@@ -20328,10 +20328,10 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 	<defs>
 		<circle id="mask_00000015332310124365348040000000434194646307296167_" cx="598" cy="564" r="141"/>
 	</defs>
-	<clipPath id="mask_00000179616286146215778810000003489712863635373985_">
+	<clipPath id="mask_00000004521439060021536520000013624967583743981233_">
 		<use xlink:href="#mask_00000015332310124365348040000000434194646307296167_"  overflow="visible"/>
 	</clipPath>
-	<g clip-path="url(#mask_00000179616286146215778810000003489712863635373985_)">
+	<g clip-path="url(#mask_00000004521439060021536520000013624967583743981233_)">
 		
 			<use xlink:href="#radarChart"  width="682.78" height="677.21" id="radarChart_x5F_background" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 	</g>
@@ -20341,28 +20341,50 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke02_00000119077279566147851570000004219825711845301424_">
-	<g id="_x7B__x7B_f:2_x7D__x7D__00000039097835195025218390000003671217831393354372_" filter="url(#Adobe_OpacityMaskFilter)">
+<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke03_00000039820033284822102020000013924956578006480273_">
+	<g id="_x7B__x7B_f:3_x7D__x7D__00000018959768408842562070000004879520319517477267_" filter="url(#Adobe_OpacityMaskFilter)">
 		<g id="mask_00000075153614971913832260000007469042854744299952_">
 			<circle cx="598" cy="564" r="140"/>
 		</g>
 		
-			<rect id="_x7B__x7B_py:_x23_0_x2C_g:maskPath2_x2C_o:.5_x3B_0_x7D__x7D_" x="633" y="449.66" transform="matrix(0.5 0.866 -0.866 0.5 787.1273 -288.0243)" fill="#FFFFFF" width="20" height="176"/>
-		<line id="_x7B__x7B_maskPath2_x7D__x7D_" fill="none" x1="719.79" y1="494" x2="872.21" y2="406"/>
+			<rect id="_x7B__x7B_py:_x23_0_x2C_g:maskPath3_x2C_o:.5_x3B_0_x7D__x7D_" x="640" y="476" transform="matrix(-1.961526e-08 1 -1 -1.961526e-08 1214 -86)" fill="#FFFFFF" width="20" height="176"/>
+		<line id="_x7B__x7B_maskPath3_x7D__x7D_" fill="none" x1="738" y1="564" x2="914" y2="564"/>
 	</g>
 </mask>
-<g mask="url(#spoke02_00000119077279566147851570000004219825711845301424_)">
+<g mask="url(#spoke03_00000039820033284822102020000013924956578006480273_)">
 	
-		<use xlink:href="#radarChart"  width="682.78" height="677.21" id="spoke02" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
+		<use xlink:href="#radarChart"  width="682.78" height="677.21" id="spoke03" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 </g>
 <defs>
 	
-		<filter id="Adobe_OpacityMaskFilter_00000125564353932712710770000006692535249150127547_" filterUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21">
+		<filter id="Adobe_OpacityMaskFilter_00000043418907341332477930000015951793649069457046_" filterUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21">
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke01_00000109740518952627695570000016827412287804122806_">
-	<g id="_x7B__x7B_f:1_x7D__x7D_" filter="url(#Adobe_OpacityMaskFilter_00000125564353932712710770000006692535249150127547_)">
+<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke02_00000027598433883983384170000011068555866934456976_">
+	
+		<g id="_x7B__x7B_f:2_x7D__x7D__00000126304550580111739680000017131509928236161686_" filter="url(#Adobe_OpacityMaskFilter_00000043418907341332477930000015951793649069457046_)">
+		<g id="mask_00000147202723077046941540000007394555259079039109_">
+			<circle cx="598" cy="564" r="140"/>
+		</g>
+		
+			<rect id="_x7B__x7B_py:_x23_0_x2C_g:maskPath2_x2C_o:.5_x3B_0_x7D__x7D__00000173127227363954840630000008286240233434940334_" x="633" y="449.66" transform="matrix(0.5 0.866 -0.866 0.5 787.1273 -288.0243)" fill="#FFFFFF" width="20" height="176"/>
+		
+			<line id="_x7B__x7B_maskPath2_x7D__x7D__00000103255276049298481040000008034265202441743498_" fill="none" x1="719.79" y1="494" x2="872.21" y2="406"/>
+	</g>
+</mask>
+<g mask="url(#spoke02_00000027598433883983384170000011068555866934456976_)">
+	
+		<use xlink:href="#radarChart"  width="682.78" height="677.21" id="spoke02_00000063616515989383088080000004410009904087047321_" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
+</g>
+<defs>
+	
+		<filter id="Adobe_OpacityMaskFilter_00000072968764865360115570000012145221842979063456_" filterUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke01_00000054978182252720535370000009483842341295652268_">
+	<g id="_x7B__x7B_f:1_x7D__x7D_" filter="url(#Adobe_OpacityMaskFilter_00000072968764865360115570000012145221842979063456_)">
 		<g id="mask_00000065785054657841834020000016673135224222479538_">
 			<circle cx="598" cy="564" r="140"/>
 		</g>
@@ -20372,18 +20394,18 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 			<line id="_x7B__x7B_maskPath1_x7D__x7D__00000042002317865115412540000016549051841084639124_" fill="none" x1="668" y1="442.42" x2="756" y2="290"/>
 	</g>
 </mask>
-<g mask="url(#spoke01_00000109740518952627695570000016827412287804122806_)">
+<g mask="url(#spoke01_00000054978182252720535370000009483842341295652268_)">
 	
 		<use xlink:href="#radarChart"  width="682.78" height="677.21" id="spoke01" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 </g>
 <defs>
 	
-		<filter id="Adobe_OpacityMaskFilter_00000041282369744677426910000003643631259722225586_" filterUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21">
+		<filter id="Adobe_OpacityMaskFilter_00000125572380794682745500000005939321444485052813_" filterUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21">
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke00_00000181065523365561461220000012261262065442230412_">
-	<g id="_x7B__x7B_f:0_x7D__x7D_" filter="url(#Adobe_OpacityMaskFilter_00000041282369744677426910000003643631259722225586_)">
+<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spoke00_00000009563467555102767690000003769756070195273659_">
+	<g id="_x7B__x7B_f:0_x7D__x7D_" filter="url(#Adobe_OpacityMaskFilter_00000125572380794682745500000005939321444485052813_)">
 		<g id="mask_00000084527953254458691200000015252876962328056481_">
 			<circle cx="598" cy="564" r="140"/>
 		</g>
@@ -20393,7 +20415,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 			<line id="_x7B__x7B_maskPath0_x7D__x7D__00000010311693548629130000000010963349778199899813_" fill="none" x1="598" y1="424" x2="598" y2="248"/>
 	</g>
 </mask>
-<g mask="url(#spoke00_00000181065523365561461220000012261262065442230412_)">
+<g mask="url(#spoke00_00000009563467555102767690000003769756070195273659_)">
 	
 		<use xlink:href="#radarChart"  width="682.78" height="677.21" id="spoke00" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 </g>
