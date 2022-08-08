@@ -20324,12 +20324,24 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 	
 		<circle id="_x31_00_00000127039781339660518760000003982016992767388588_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="598" cy="564" r="315"/>
 </g>
+<g>
+	<defs>
+		<circle id="mask_00000015332310124365348040000000434194646307296167_" cx="598" cy="564" r="141"/>
+	</defs>
+	<clipPath id="mask_00000134235579965358156210000008695563839355921295_">
+		<use xlink:href="#mask_00000015332310124365348040000000434194646307296167_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#mask_00000134235579965358156210000008695563839355921295_)">
+		
+			<use xlink:href="#radarChart"  width="682.78" height="677.21" id="radarChart_x5F_background" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
+	</g>
+</g>
 <defs>
 	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21">
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spokes_00000089543788766252796560000011125533058008839066_">
+<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spokes_00000056418734605175605730000012127829807955656065_">
 	<g id="_x7B__x7B_f:0_x7D__x7D_" filter="url(#Adobe_OpacityMaskFilter)">
 		<g id="mask_00000084527953254458691200000015252876962328056481_">
 			<circle cx="598" cy="564" r="140"/>
@@ -20339,7 +20351,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 		<line id="_x7B__x7B_maskPath0_x7D__x7D_" fill="none" x1="598" y1="248" x2="598" y2="424"/>
 	</g>
 </mask>
-<g mask="url(#spokes_00000089543788766252796560000011125533058008839066_)">
+<g mask="url(#spokes_00000056418734605175605730000012127829807955656065_)">
 	
 		<use xlink:href="#radarChart"  width="682.78" height="677.21" id="spokes" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 </g>
@@ -20353,7 +20365,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 <g id="_x7B__x7B_f:11_x7D__x7D_">
 	<g id="_x7B__x7B_ta:end_x7D__x7D__00000158023530462053213190000007387707369615431320_">
 		<g id="_x7B__x7B__x23_0_x7D__x7D__00000021799522627861584940000014356353195780160447_">
-			<text transform="matrix(1 0 0 1 372.4169 239.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+			<text transform="matrix(1 0 0 1 355.4169 239.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 370.9999 212.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20363,7 +20375,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 <g id="_x7B__x7B_f:10_x7D__x7D_">
 	<g id="_x7B__x7B_ta:end_x7D__x7D__00000003070166928638047060000017017910555466711177_">
 		<g id="_x7B__x7B__x23_0_x7D__x7D__00000028285667402681264800000003141200834400650418_">
-			<text transform="matrix(1 0 0 1 221.4169 403.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+			<text transform="matrix(1 0 0 1 204.4169 403.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 219.9999 376.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20373,7 +20385,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 <g id="_x7B__x7B_f:9_x7D__x7D_">
 	<g id="_x7B__x7B_ta:end_x7D__x7D__00000155136086810459611630000002245166036206156686_">
 		<g id="_x7B__x7B__x23_0_x7D__x7D__00000068668545066276319730000011287651530854508934_">
-			<text transform="matrix(1 0 0 1 172.4169 583.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+			<text transform="matrix(1 0 0 1 156.4169 583.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 170.9999 556.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20383,7 +20395,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 <g id="_x7B__x7B_f:8_x7D__x7D_">
 	<g id="_x7B__x7B_ta:end_x7D__x7D__00000078009604160883460960000015887888240046000277_">
 		<g id="_x7B__x7B__x23_0_x7D__x7D__00000114044312407939796150000012333497736370537913_">
-			<text transform="matrix(1 0 0 1 220.4169 776.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+			<text transform="matrix(1 0 0 1 203.4169 776.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 218.9999 749.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20393,7 +20405,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 <g id="_x7B__x7B_f:7_x7D__x7D_">
 	<g id="_x7B__x7B_ta:end_x7D__x7D_">
 		<g id="_x7B__x7B__x23_0_x7D__x7D__00000089556681246006407540000002535462066270517165_">
-			<text transform="matrix(1 0 0 1 374.4169 927.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+			<text transform="matrix(1 0 0 1 358.4169 927.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 372.9999 900.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20403,7 +20415,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 <g id="_x7B__x7B_f:6_x7D__x7D__00000076587109654382310640000017173870552235666573_">
 	<g id="_x7B__x7B_ta:middle_x7D__x7D__00000005958873844451650070000000916523074339344281_">
 		<g id="_x7B__x7B__x23_0_x7D__x7D__00000060723792853721836320000007084064458365583274_">
-			<text transform="matrix(1 0 0 1 572.412 974.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+			<text transform="matrix(1 0 0 1 563.412 974.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 571.412 947.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20412,7 +20424,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 </g>
 <g id="_x7B__x7B_f:5_x7D__x7D_">
 	<g id="_x7B__x7B__x23_0_x7D__x7D__00000014598435141264460250000010626553147553758353_">
-		<text transform="matrix(1 0 0 1 764.9999 927.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+		<text transform="matrix(1 0 0 1 764.9999 927.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 764.9999 900.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20420,7 +20432,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 </g>
 <g id="_x7B__x7B_f:4_x7D__x7D_">
 	<g id="_x7B__x7B__x23_0_x7D__x7D__00000137133985349705684050000015765417026074408838_">
-		<text transform="matrix(1 0 0 1 915.9999 775.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+		<text transform="matrix(1 0 0 1 915.9999 775.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 915.9999 748.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20428,7 +20440,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 </g>
 <g id="_x7B__x7B_f:3_x7D__x7D_">
 	<g id="_x7B__x7B__x23_0_x7D__x7D__00000121275246557340262110000008530679329920716728_">
-		<text transform="matrix(1 0 0 1 960.9999 583.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+		<text transform="matrix(1 0 0 1 960.9999 583.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 960.9999 556.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20436,7 +20448,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 </g>
 <g id="_x7B__x7B_f:2_x7D__x7D_">
 	<g id="_x7B__x7B__x23_0_x7D__x7D__00000086661281059802735100000008605530553341950355_">
-		<text transform="matrix(1 0 0 1 914.9999 403.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+		<text transform="matrix(1 0 0 1 914.9999 403.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 914.9999 376.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20444,7 +20456,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 </g>
 <g id="_x7B__x7B_f:1_x7D__x7D__00000137129648377572772970000014971285849964105092_">
 	<g id="_x7B__x7B__x23_0_x7D__x7D__00000069374489873532386770000016765274443989377420_">
-		<text transform="matrix(1 0 0 1 764.9999 239.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+		<text transform="matrix(1 0 0 1 764.9999 239.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 	</g>
 	<g>
 		<text transform="matrix(1 0 0 1 764.9999 212.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
@@ -20453,7 +20465,7 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 <g id="_x7B__x7B_f:0_x7D__x7D__00000007399793627956940400000008228020595561496496_">
 	<g id="_x7B__x7B_ta:middle_x7D__x7D_">
 		<g id="_x7B__x7B__x23_0_x7D__x7D__00000000940297947361285190000004196943102611923602_">
-			<text transform="matrix(1 0 0 1 572.412 198.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0}}</text>
+			<text transform="matrix(1 0 0 1 572.412 198.8335)" fill="#C10A0A" font-family="'Barlow-Regular'" font-size="24px">{{#0|c}}</text>
 		</g>
 		<g>
 			<text transform="matrix(1 0 0 1 571.412 171.8335)" font-family="'Barlow-Medium'" font-size="24px">{{@1}}</text>
