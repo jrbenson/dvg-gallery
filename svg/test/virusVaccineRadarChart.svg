@@ -20328,10 +20328,10 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 	<defs>
 		<circle id="mask_00000015332310124365348040000000434194646307296167_" cx="598" cy="564" r="141"/>
 	</defs>
-	<clipPath id="mask_00000010300400928726551390000009227432986469281200_">
+	<clipPath id="mask_00000037655155209513721870000015464497026400622514_">
 		<use xlink:href="#mask_00000015332310124365348040000000434194646307296167_"  overflow="visible"/>
 	</clipPath>
-	<g clip-path="url(#mask_00000010300400928726551390000009227432986469281200_)">
+	<g clip-path="url(#mask_00000037655155209513721870000015464497026400622514_)">
 		
 			<use xlink:href="#radarChart"  width="682.78" height="677.21" id="radarChart_x5F_background" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 	</g>
@@ -20341,17 +20341,18 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spokes_00000054969182057558542650000002265803672689376400_">
+<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spokes_00000181070601972301593500000005170082270675590811_">
 	<g id="_x7B__x7B_f:0_x7D__x7D_" filter="url(#Adobe_OpacityMaskFilter)">
 		<g id="mask_00000084527953254458691200000015252876962328056481_">
 			<circle cx="598" cy="564" r="140"/>
 		</g>
 		
-			<rect id="_x7B__x7B_py:_x23_0_x2C_g:maskPath0_x2C_o:.5_x3B_0_x7D__x7D_" x="588" y="248" fill="#FFFFFF" width="20" height="176"/>
-		<line id="_x7B__x7B_maskPath0_x7D__x7D_" fill="none" x1="598" y1="424" x2="598" y2="248"/>
+			<rect id="_x7B__x7B_py:_x23_0_x2C_g:maskPath0_x2C_o:.5_x3B_0_x7D__x7D_" x="588" y="424" fill="#FFFFFF" width="20" height="176"/>
+		
+			<line id="_x7B__x7B_maskPath0_x7D__x7D__00000010311693548629130000000010963349778199899813_" fill="none" x1="598" y1="424" x2="598" y2="248"/>
 	</g>
 </mask>
-<g mask="url(#spokes_00000054969182057558542650000002265803672689376400_)">
+<g mask="url(#spokes_00000181070601972301593500000005170082270675590811_)">
 	
 		<use xlink:href="#radarChart"  width="682.78" height="677.21" id="spokes" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
 </g>
