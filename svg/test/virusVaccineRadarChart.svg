@@ -20329,25 +20329,8 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="radarChart_x5F_background_00000136371856977441128890000003503765084869241007_">
-	<g filter="url(#Adobe_OpacityMaskFilter)">
-		<g id="mask">
-			<circle fill="#FFFFFF" cx="598" cy="564" r="141"/>
-		</g>
-	</g>
-</mask>
-<g mask="url(#radarChart_x5F_background_00000136371856977441128890000003503765084869241007_)">
-	
-		<use xlink:href="#radarChart"  width="682.78" height="677.21" id="radarChart_x5F_background" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
-</g>
-<defs>
-	
-		<filter id="Adobe_OpacityMaskFilter_00000045614051211998822670000009345070053290881681_" filterUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21">
-		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
-	</filter>
-</defs>
-<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spokes_00000069370881510681588730000003263092705613071259_">
-	<g id="_x7B__x7B_f:0_x7D__x7D_" filter="url(#Adobe_OpacityMaskFilter_00000045614051211998822670000009345070053290881681_)">
+<mask maskUnits="userSpaceOnUse" x="255.61" y="227.39" width="682.78" height="677.21" id="spokes_00000089543788766252796560000011125533058008839066_">
+	<g id="_x7B__x7B_f:0_x7D__x7D_" filter="url(#Adobe_OpacityMaskFilter)">
 		<g id="mask_00000084527953254458691200000015252876962328056481_">
 			<circle cx="598" cy="564" r="140"/>
 		</g>
@@ -20356,27 +20339,9 @@ qO0jhwAAAABJRU5ErkJggg==" transform="matrix(0.3711 0 0 -0.3711 -341.3887 338.605
 		<line id="_x7B__x7B_maskPath0_x7D__x7D_" fill="none" x1="598" y1="248" x2="598" y2="424"/>
 	</g>
 </mask>
-<g mask="url(#spokes_00000069370881510681588730000003263092705613071259_)">
+<g mask="url(#spokes_00000089543788766252796560000011125533058008839066_)">
 	
 		<use xlink:href="#radarChart"  width="682.78" height="677.21" id="spokes" x="-341.39" y="-338.61" transform="matrix(1 0 0 -1 597 566)" overflow="visible"/>
-</g>
-<g id="_x7B__x7B_ta:end_x7D__x7D__00000048492054409696722330000006558411793371764608_">
-	<text transform="matrix(1 0 0 1 483 417.4023)" font-family="'Barlow-Regular'" font-size="22px">{{#0,r:0.0}}</text>
-</g>
-<g id="_x7B__x7B_ta:end_x7D__x7D__00000016070157307824933670000011689152931174341519_">
-	<text transform="matrix(1 0 0 1 483 382.4023)" font-family="'Barlow-Regular'" font-size="22px">{{#0,r:0.2}}</text>
-</g>
-<g id="_x7B__x7B_ta:end_x7D__x7D__00000046305214639430623440000007661348810254247870_">
-	<text transform="matrix(1 0 0 1 483 346.4023)" font-family="'Barlow-Regular'" font-size="22px">{{#0,r:0.4}}</text>
-</g>
-<g id="_x7B__x7B_ta:end_x7D__x7D__00000171678458404220853400000012497664554029657233_">
-	<text transform="matrix(1 0 0 1 483 311.4023)" font-family="'Barlow-Regular'" font-size="22px">{{#0,r:0.6}}</text>
-</g>
-<g id="_x7B__x7B_ta:end_x7D__x7D__00000083786753983464897400000012721613155848854718_">
-	<text transform="matrix(1 0 0 1 483 276.4023)" font-family="'Barlow-Regular'" font-size="22px">{{#0,r:0.8}}</text>
-</g>
-<g id="_x7B__x7B_ta:end_x7D__x7D__00000013899256342812363480000011283824669200376471_">
-	<text transform="matrix(1 0 0 1 488 241.4023)" font-family="'Barlow-Regular'" font-size="22px">{{#0,r:1.0}}</text>
 </g>
 <g id="_x7B__x7B_ta:middle_x7D__x7D__00000109742942978181041650000004935529946431516065_">
 	<g opacity="0.75">
