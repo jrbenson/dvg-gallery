@@ -1,117 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="vaccineRadarChart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-	 y="0px" viewBox="0 0 1000 800" enable-background="new 0 0 1000 800" xml:space="preserve">
-<g id="spoke_lines">
-	<g>
-		<g>
-			<g id="boundingBox_00000076569701208827947380000018170755054770979234_" opacity="0">
-				<g>
-					
-						<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="194.27" y1="611.36" x2="801.73" y2="260.64"/>
-					<g>
-						
-							<ellipse transform="matrix(0.9914 -0.1305 0.1305 0.9914 -78.1192 30.6122)" fill="#963E2A" cx="194.47" cy="611.24" rx="4.51" ry="4.51"/>
-					</g>
-					<g>
-						<circle fill="#963E2A" cx="801.53" cy="260.76" r="4.51"/>
-					</g>
-				</g>
-			</g>
-			<g id="line_00000008132565284044793580000001253146713414965147_" opacity="0.3">
-				<g>
-					
-						<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="194.27" y1="611.36" x2="494.29" y2="438.14"/>
-					<g>
-						
-							<ellipse transform="matrix(0.9914 -0.1305 0.1305 0.9914 -78.1192 30.6122)" fill="#963E2A" cx="194.47" cy="611.24" rx="4.51" ry="4.51"/>
-					</g>
-					<g>
-						<path fill="#963E2A" d="M496.35,442.16c2.16-1.25,2.9-4.01,1.65-6.16s-4.01-2.9-6.16-1.65c-2.16,1.25-2.9,4.01-1.65,6.16
-							S494.19,443.41,496.35,442.16z"/>
-					</g>
-				</g>
-			</g>
-		</g>
-	</g>
-	<g>
-		<g>
-			<g id="boundingBox_00000004507029495777914010000014619767548886810009_" opacity="0">
-				<g>
-					
-						<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="801.73" y1="611.36" x2="194.27" y2="260.64"/>
-					<g>
-						
-							<ellipse transform="matrix(0.7934 -0.6088 0.6088 0.7934 -206.468 614.2523)" fill="#963E2A" cx="801.53" cy="611.24" rx="4.51" ry="4.51"/>
-					</g>
-					<g>
-						<circle fill="#963E2A" cx="194.47" cy="260.76" r="4.51"/>
-					</g>
-				</g>
-			</g>
-			<g id="line_00000029023771871726517190000012439739778300320681_" opacity="0.3">
-				<g>
-					
-						<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="801.73" y1="611.36" x2="501.71" y2="438.14"/>
-					<g>
-						
-							<ellipse transform="matrix(0.7934 -0.6088 0.6088 0.7934 -206.468 614.2523)" fill="#963E2A" cx="801.53" cy="611.24" rx="4.51" ry="4.51"/>
-					</g>
-					<g>
-						<path fill="#963E2A" d="M504.16,434.35c-2.16-1.25-4.92-0.51-6.16,1.65s-0.51,4.92,1.65,6.16c2.16,1.25,4.92,0.51,6.16-1.65
-							S506.32,435.59,504.16,434.35z"/>
-					</g>
-				</g>
-			</g>
-		</g>
-	</g>
-	<g>
-		<g>
-			<g id="boundingBox_00000028310741068982766350000000569734883377342596_" opacity="0">
-				<g>
-					<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="498" y1="85.29" x2="498" y2="786.71"/>
-					<g>
-						
-							<ellipse transform="matrix(0.3827 -0.9239 0.9239 0.3827 228.4207 512.8796)" fill="#963E2A" cx="498" cy="85.51" rx="4.51" ry="4.51"/>
-					</g>
-					<g>
-						<circle fill="#963E2A" cx="498" cy="786.49" r="4.51"/>
-					</g>
-				</g>
-			</g>
-			<g id="line_00000178894237036112069880000001176580905853803194_" opacity="0.3">
-				<g>
-					<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="498" y1="85.29" x2="498" y2="431.71"/>
-					<g>
-						
-							<ellipse transform="matrix(0.3827 -0.9239 0.9239 0.3827 228.4207 512.8796)" fill="#963E2A" cx="498" cy="85.51" rx="4.51" ry="4.51"/>
-					</g>
-					<g>
-						<path fill="#963E2A" d="M493.49,431.49c0,2.49,2.02,4.51,4.51,4.51s4.51-2.02,4.51-4.51c0-2.49-2.02-4.51-4.51-4.51
-							S493.49,429,493.49,431.49z"/>
-					</g>
-				</g>
-			</g>
-		</g>
-	</g>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 800" enable-background="new 0 0 1000 800" xml:space="preserve">
+<g id="_x7B__x7B_ta:end_x7D__x7D__00000078009604160883460960000015887888240046000277_">
 </g>
-<g id="tick_rings" opacity="0.3">
-	
-		<circle id="_x30__00000079487731082112108740000009926484144465914759_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="140"/>
-	
-		<circle id="_x32_0_00000080906658159670974420000011106945932182241673_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="175"/>
-	
-		<circle id="_x34_0_00000163772281969476229580000010208717998368521918_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="210"/>
-	
-		<circle id="_x36_0_00000021095824343448733190000005452150389615113916_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="245"/>
-	
-		<circle id="_x38_0_00000005961532930714657210000007593133012567491241_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="280"/>
-	
-		<circle id="_x31_00_00000178179480537902502140000002446677820215098814_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="315"/>
-</g>
-<g id="radarChart_x5F_core_00000035511401128856367790000018334682310724854196_">
-	
-		<image overflow="visible" width="1840" height="1825" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABzAAAAchCAYAAABzFAO0AAAACXBIWXMAAB3VAAAd1QFGLmdPAAAg
+<g id="vaccineRadarChart">
+	<g id="spoke_lines">
+		<g>
+			<g>
+				<g id="boundingBox_00000076569701208827947380000018170755054770979234_" opacity="0">
+					<g>
+						
+							<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="194.27" y1="611.36" x2="801.73" y2="260.64"/>
+						<g>
+							
+								<ellipse transform="matrix(0.9914 -0.1305 0.1305 0.9914 -78.1192 30.6122)" fill="#963E2A" cx="194.47" cy="611.24" rx="4.51" ry="4.51"/>
+						</g>
+						<g>
+							<circle fill="#963E2A" cx="801.53" cy="260.76" r="4.51"/>
+						</g>
+					</g>
+				</g>
+				<g id="line_00000008132565284044793580000001253146713414965147_" opacity="0.3">
+					<g>
+						
+							<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="194.27" y1="611.36" x2="494.29" y2="438.14"/>
+						<g>
+							
+								<ellipse transform="matrix(0.9914 -0.1305 0.1305 0.9914 -78.1192 30.6122)" fill="#963E2A" cx="194.47" cy="611.24" rx="4.51" ry="4.51"/>
+						</g>
+						<g>
+							<path fill="#963E2A" d="M496.35,442.16c2.16-1.25,2.9-4.01,1.65-6.16s-4.01-2.9-6.16-1.65c-2.16,1.25-2.9,4.01-1.65,6.16
+								S494.19,443.41,496.35,442.16z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="boundingBox_00000004507029495777914010000014619767548886810009_" opacity="0">
+					<g>
+						
+							<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="801.73" y1="611.36" x2="194.27" y2="260.64"/>
+						<g>
+							
+								<ellipse transform="matrix(0.7934 -0.6088 0.6088 0.7934 -206.468 614.2523)" fill="#963E2A" cx="801.53" cy="611.24" rx="4.51" ry="4.51"/>
+						</g>
+						<g>
+							<circle fill="#963E2A" cx="194.47" cy="260.76" r="4.51"/>
+						</g>
+					</g>
+				</g>
+				<g id="line_00000029023771871726517190000012439739778300320681_" opacity="0.3">
+					<g>
+						
+							<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="801.73" y1="611.36" x2="501.71" y2="438.14"/>
+						<g>
+							
+								<ellipse transform="matrix(0.7934 -0.6088 0.6088 0.7934 -206.468 614.2523)" fill="#963E2A" cx="801.53" cy="611.24" rx="4.51" ry="4.51"/>
+						</g>
+						<g>
+							<path fill="#963E2A" d="M504.16,434.35c-2.16-1.25-4.92-0.51-6.16,1.65s-0.51,4.92,1.65,6.16c2.16,1.25,4.92,0.51,6.16-1.65
+								S506.32,435.59,504.16,434.35z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="boundingBox_00000028310741068982766350000000569734883377342596_" opacity="0">
+					<g>
+						<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="498" y1="85.29" x2="498" y2="786.71"/>
+						<g>
+							
+								<ellipse transform="matrix(0.3827 -0.9239 0.9239 0.3827 228.4207 512.8796)" fill="#963E2A" cx="498" cy="85.51" rx="4.51" ry="4.51"/>
+						</g>
+						<g>
+							<circle fill="#963E2A" cx="498" cy="786.49" r="4.51"/>
+						</g>
+					</g>
+				</g>
+				<g id="line_00000178894237036112069880000001176580905853803194_" opacity="0.3">
+					<g>
+						<line fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" x1="498" y1="85.29" x2="498" y2="431.71"/>
+						<g>
+							
+								<ellipse transform="matrix(0.3827 -0.9239 0.9239 0.3827 228.4207 512.8796)" fill="#963E2A" cx="498" cy="85.51" rx="4.51" ry="4.51"/>
+						</g>
+						<g>
+							<path fill="#963E2A" d="M493.49,431.49c0,2.49,2.02,4.51,4.51,4.51s4.51-2.02,4.51-4.51c0-2.49-2.02-4.51-4.51-4.51
+								S493.49,429,493.49,431.49z"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="tick_rings" opacity="0.3">
+		
+			<circle id="_x30__00000079487731082112108740000009926484144465914759_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="140"/>
+		
+			<circle id="_x32_0_00000080906658159670974420000011106945932182241673_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="175"/>
+		
+			<circle id="_x34_0_00000163772281969476229580000010208717998368521918_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="210"/>
+		
+			<circle id="_x36_0_00000021095824343448733190000005452150389615113916_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="245"/>
+		
+			<circle id="_x38_0_00000005961532930714657210000007593133012567491241_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="280"/>
+		
+			<circle id="_x31_00_00000178179480537902502140000002446677820215098814_" fill="none" stroke="#963E2A" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" cx="498" cy="436" r="315"/>
+	</g>
+	<g id="radarChart_x5F_core_00000035511401128856367790000018334682310724854196_">
+		
+			<image overflow="visible" width="1840" height="1825" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABzAAAAchCAYAAABzFAO0AAAACXBIWXMAAB3VAAAd1QFGLmdPAAAg
 AElEQVR4nOzBAQEAAACAkP6v7ggKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -7839,62 +7842,55 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQ
 DVZSkav+W5XPAAAAAElFTkSuQmCC" transform="matrix(0.3711 0 0 0.3711 155 100)">
-	</image>
-</g>
-<g id="fully_vaccinated_labels">
-	<g id="_x7B__x7B_ta:end_x7D__x7D__00000078009604160883460960000015887888240046000277_">
-		<g id="_x7B__x7B_people_x5F_fully_x5F_vaccinated_x7C_c_x7D__x7D_">
-			<text transform="matrix(1 0 0 1 -117.0323 648.8335)" fill="#7A66D3" font-family="'Barlow-Regular'" font-size="24px">{{people_fully_vaccinated|c}}</text>
+		</image>
+	</g>
+	<g id="fully_vaccinated_labels">
+		<g>
+			<text transform="matrix(1 0 0 1 131.8251 597.8335)"><tspan x="0" y="0" font-family="'Barlow-Medium'" font-size="24px">Fully</tspan><tspan x="-69.43" y="24" font-family="'Barlow-Medium'" font-size="24px">Vaccinated</tspan></text>
 		</g>
 	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 131.8251 597.8335)"><tspan x="0" y="0" font-family="'Barlow-Medium'" font-size="24px">Fully</tspan><tspan x="-69.43" y="24" font-family="'Barlow-Medium'" font-size="24px">Vaccinated</tspan></text>
-	</g>
-</g>
-<g id="partially_vaccinated_labels">
-	<g id="_x7B__x7B_people_x5F_vaccinated_x7C_c_x7D__x7D_">
-		<text transform="matrix(1 0 0 1 815.9999 647.8335)" fill="#BA6B15" font-family="'Barlow-Regular'" font-size="24px">{{people_vaccinated|c}}</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 815.9999 596.8335)"><tspan x="0" y="0" font-family="'Barlow-Medium'" font-size="24px">Partially</tspan><tspan x="0" y="24" font-family="'Barlow-Medium'" font-size="24px">Vaccinated</tspan></text>
-	</g>
-</g>
-<g id="population_labels">
-	<g id="_x7B__x7B_ta:middle_x7D__x7D_">
-		<g id="_x7B__x7B_population_x7C_c_x7D__x7D__00000083078165130513295030000009242615130247196076_">
-			<text transform="matrix(1 0 0 1 420.1381 70.8335)" fill="#207FDC" font-family="'Barlow-Regular'" font-size="24px">{{population|c}}</text>
+	<g id="partially_vaccinated_labels">
+		<g>
+			<text transform="matrix(1 0 0 1 815.9999 596.8335)"><tspan x="0" y="0" font-family="'Barlow-Medium'" font-size="24px">Partially</tspan><tspan x="0" y="24" font-family="'Barlow-Medium'" font-size="24px">Vaccinated</tspan></text>
 		</g>
 	</g>
-	<g id="population">
-		<text transform="matrix(1 0 0 1 440.809 43.8335)" font-family="'Barlow-Medium'" font-size="24px">Population</text>
+	<g id="population_labels">
+		<g id="_x7B__x7B_ta:middle_x7D__x7D_">
+			<g id="_x7B__x7B_population_x7C_c_x7D__x7D__00000083078165130513295030000009242615130247196076_">
+				<text transform="matrix(1 0 0 1 420.1381 70.8335)" fill="#207FDC" font-family="'Barlow-Regular'" font-size="24px">{{population|c}}</text>
+			</g>
+		</g>
+		<g id="population">
+			<text transform="matrix(1 0 0 1 440.809 43.8335)" font-family="'Barlow-Medium'" font-size="24px">Population</text>
+		</g>
 	</g>
-</g>
-<g id="_x7B__x7B_ta:end_x7D__x7D_">
-	<g>
-		<text transform="matrix(1 0 0 1 291.2485 289.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.0}}</text>
+	<g id="_x7B__x7B_ta:end_x7D__x7D_">
+		<g>
+			<text transform="matrix(1 0 0 1 291.2485 289.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.0}}</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 291.8862 254.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.2}}</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 291.5562 219.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.4}}</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 292.3481 184.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.6}}</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 292.2163 149.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.8}}</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 295.9785 114.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:1.0}}</text>
+		</g>
 	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 291.8862 254.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.2}}</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 291.5562 219.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.4}}</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 292.3481 184.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.6}}</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 292.2163 149.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.8}}</text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 295.9785 114.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:1.0}}</text>
-	</g>
-</g>
-<g id="label_00000036961894125493946900000004032722261144663699_" opacity="0.9">
-	<g opacity="0.5">
-		<text transform="matrix(1 0 0 1 465.1161 405.8335)"><tspan x="0" y="0" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">World</tspan><tspan x="-31.63" y="26" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">Vaccination</tspan><tspan x="-16.52" y="52" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">Amounts</tspan><tspan x="-13.97" y="78" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">(billions)</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 467.1161 403.8335)"><tspan x="0" y="0" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">World</tspan><tspan x="-31.63" y="26" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">Vaccination</tspan><tspan x="-16.52" y="52" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">Amounts</tspan><tspan x="-13.97" y="78" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">(billions)</tspan></text>
+	<g id="label_00000036961894125493946900000004032722261144663699_" opacity="0.9">
+		<g opacity="0.5">
+			<text transform="matrix(1 0 0 1 465.1161 405.8335)"><tspan x="0" y="0" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">World</tspan><tspan x="-31.63" y="26" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">Vaccination</tspan><tspan x="-16.52" y="52" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">Amounts</tspan><tspan x="-13.97" y="78" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">(billions)</tspan></text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 467.1161 403.8335)"><tspan x="0" y="0" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">World</tspan><tspan x="-31.63" y="26" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">Vaccination</tspan><tspan x="-16.52" y="52" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">Amounts</tspan><tspan x="-13.97" y="78" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">(billions)</tspan></text>
+		</g>
 	</g>
 </g>
 </svg>
