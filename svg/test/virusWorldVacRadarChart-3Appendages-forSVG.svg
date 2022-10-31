@@ -7881,12 +7881,5 @@ DVZSkav+W5XPAAAAAElFTkSuQmCC" transform="matrix(0.3711 0 0 0.3711 155 100)">
 		<text transform="matrix(1 0 0 1 370.8872 114.4023)" font-family="'Barlow-Regular'" font-size="22px">{{#0|c,r:1.0}}</text>
 	</g>
 </g>
-<g id="label_00000036961894125493946900000004032722261144663699_" opacity="0.9">
-	<g opacity="0.5">
-		<text transform="matrix(1 0 0 1 465.1161 405.8335)"><tspan x="0" y="0" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">World</tspan><tspan x="-31.63" y="26" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">Vaccination</tspan><tspan x="-16.52" y="52" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">Amounts</tspan><tspan x="-13.97" y="78" fill="#2C0259" font-family="'Barlow-SemiBold'" font-size="24px">(billions)</tspan></text>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 467.1161 403.8335)"><tspan x="0" y="0" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">World</tspan><tspan x="-31.63" y="26" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">Vaccination</tspan><tspan x="-16.52" y="52" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">Amounts</tspan><tspan x="-13.97" y="78" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">(billions)</tspan></text>
-	</g>
-</g>
+<text id="label_00000036961894125493946900000004032722261144663699_" transform="matrix(1 0 0 1 467.1161 403.8335)"><tspan x="0" y="0" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">World</tspan><tspan x="-31.63" y="26" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">Vaccination</tspan><tspan x="-16.52" y="52" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">Amounts</tspan><tspan x="-13.97" y="78" fill="#FFFBF1" font-family="'Barlow-SemiBold'" font-size="24px">(billions)</tspan></text>
 </svg>
