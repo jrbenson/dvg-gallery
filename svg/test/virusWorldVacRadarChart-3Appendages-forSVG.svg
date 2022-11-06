@@ -17673,47 +17673,47 @@ cRueB0+3fNWr7597NeA//ekbYhD+v72R238DN5NW3Psfuv8AAAAASUVORK5CYII=" transform="mat
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke02_00000105428467720040789120000001804493339930923410_">
+<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke02_00000062173085855227260220000004544303687520325820_">
 	<g id="masks_00000181777086942301222380000010217301608730248834_" filter="url(#Adobe_OpacityMaskFilter)">
 		
 			<rect id="_x7B__x7B_p:people_x5F_fully_x5F_vaccinated_x2C_g:spokePath02_x7D__x7D_" x="461.09" y="331.49" transform="matrix(-0.5 -0.866 0.866 -0.5 327.4674 1082.0442)" fill="#FFFFFF" width="30" height="230"/>
 		<path id="_x7B__x7B_spokePath02_x7D__x7D_" fill="none" d="M377.58,503.9l-152.42,88"/>
 	</g>
 </mask>
-<g mask="url(#spoke02_00000105428467720040789120000001804493339930923410_)">
+<g mask="url(#spoke02_00000062173085855227260220000004544303687520325820_)">
 	
 		<use xlink:href="#radarChartAppendages"  width="682.78" height="677.21" id="spoke02" x="-341.79" y="-338.82" transform="matrix(1 0 0 -1 497 436)" overflow="visible"/>
 </g>
 <defs>
 	
-		<filter id="Adobe_OpacityMaskFilter_00000143606436626456717310000001444003319404405124_" filterUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21">
+		<filter id="Adobe_OpacityMaskFilter_00000115490755975070515560000013362137738265493416_" filterUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21">
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke01_00000019668144792343012330000016864574930637084087_">
-	<g id="masks" filter="url(#Adobe_OpacityMaskFilter_00000143606436626456717310000001444003319404405124_)">
+<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke01_00000173157665360296776620000015078704200852997556_">
+	<g id="masks" filter="url(#Adobe_OpacityMaskFilter_00000115490755975070515560000013362137738265493416_)">
 		
 			<rect id="_x7B__x7B_p:people_x5F_vaccinated_x2C_g:spokePath01_x7D__x7D_" x="504.29" y="331.49" transform="matrix(-0.5 0.866 -0.866 -0.5 1165.6064 220.0174)" fill="#FFFFFF" width="30" height="230"/>
 		<path id="_x7B__x7B_spokePath01_x7D__x7D_" fill="none" d="M619.5,503.99l152.42,88"/>
 	</g>
 </mask>
-<g mask="url(#spoke01_00000019668144792343012330000016864574930637084087_)">
+<g mask="url(#spoke01_00000173157665360296776620000015078704200852997556_)">
 	
 		<use xlink:href="#radarChartAppendages"  width="682.78" height="677.21" id="spoke01" x="-341.79" y="-338.82" transform="matrix(1 0 0 -1 497 436)" overflow="visible"/>
 </g>
 <defs>
 	
-		<filter id="Adobe_OpacityMaskFilter_00000100349664717299014130000018321492873502098090_" filterUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21">
+		<filter id="Adobe_OpacityMaskFilter_00000026881668641697933820000010840361064644340147_" filterUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21">
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke00_00000133497929019254463520000009741536102589568389_">
-	<g id="mask" filter="url(#Adobe_OpacityMaskFilter_00000100349664717299014130000018321492873502098090_)">
+<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke00_00000130643284609009505580000009425831521282827184_">
+	<g id="mask" filter="url(#Adobe_OpacityMaskFilter_00000026881668641697933820000010840361064644340147_)">
 		<rect id="_x7B__x7B_p:population_x2C_g:spokePath00_x7D__x7D_" x="483" y="294" fill="#FFFFFF" width="30" height="230"/>
 		<path id="_x7B__x7B_spokePath00_x7D__x7D_" fill="none" d="M498,294V118"/>
 	</g>
 </mask>
-<g mask="url(#spoke00_00000133497929019254463520000009741536102589568389_)">
+<g mask="url(#spoke00_00000130643284609009505580000009425831521282827184_)">
 	
 		<use xlink:href="#radarChartAppendages"  width="682.78" height="677.21" id="spoke00_00000113333586665212920960000000007626123573547141_" x="-341.79" y="-338.82" transform="matrix(1 0 0 -1 497 436)" overflow="visible"/>
 </g>
@@ -17748,22 +17748,22 @@ cRueB0+3fNWr7597NeA//ekbYhD+v72R238DN5NW3Psfuv8AAAAASUVORK5CYII=" transform="mat
 </g>
 <g id="_x7B__x7B_ta:end_x7D__x7D_">
 	<g>
-		<text transform="matrix(1 0 0 1 312.7939 287.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0}}</text>
+		<text transform="matrix(1 0 0 1 308.7939 287.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0}}</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 294.8862 252.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.2}}</text>
+		<text transform="matrix(1 0 0 1 290.8862 252.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.2}}</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 294.5562 217.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.4}}</text>
+		<text transform="matrix(1 0 0 1 290.5562 217.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.4}}</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 295.3481 182.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.6}}</text>
+		<text transform="matrix(1 0 0 1 291.3481 182.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.6}}</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 295.2163 147.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.8}}</text>
+		<text transform="matrix(1 0 0 1 291.2163 147.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:0.8}}</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 317.5239 112.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:1}}</text>
+		<text transform="matrix(1 0 0 1 313.5239 112.4023)" font-family="'Barlow-Regular'" font-size="22px">{{population|c,r:1}}</text>
 	</g>
 </g>
 <text id="label_shadow" transform="matrix(1 0 0 1 465.1161 416.8335)" opacity="0.5"><tspan x="0" y="0" fill="#163A51" font-family="'Barlow-SemiBold'" font-size="24px">World</tspan><tspan x="-31.63" y="26" fill="#163A51" font-family="'Barlow-SemiBold'" font-size="24px">Vaccination</tspan><tspan x="-3.44" y="52" fill="#163A51" font-family="'Barlow-SemiBold'" font-size="24px">Status</tspan></text>
