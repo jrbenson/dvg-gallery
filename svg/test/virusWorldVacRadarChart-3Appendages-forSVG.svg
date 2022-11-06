@@ -17673,47 +17673,47 @@ cRueB0+3fNWr7597NeA//ekbYhD+v72R238DN5NW3Psfuv8AAAAASUVORK5CYII=" transform="mat
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke02_00000101092133966128721670000002703894942373229470_">
+<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke02_00000105428467720040789120000001804493339930923410_">
 	<g id="masks_00000181777086942301222380000010217301608730248834_" filter="url(#Adobe_OpacityMaskFilter)">
 		
 			<rect id="_x7B__x7B_p:people_x5F_fully_x5F_vaccinated_x2C_g:spokePath02_x7D__x7D_" x="461.09" y="331.49" transform="matrix(-0.5 -0.866 0.866 -0.5 327.4674 1082.0442)" fill="#FFFFFF" width="30" height="230"/>
 		<path id="_x7B__x7B_spokePath02_x7D__x7D_" fill="none" d="M377.58,503.9l-152.42,88"/>
 	</g>
 </mask>
-<g mask="url(#spoke02_00000101092133966128721670000002703894942373229470_)">
+<g mask="url(#spoke02_00000105428467720040789120000001804493339930923410_)">
 	
 		<use xlink:href="#radarChartAppendages"  width="682.78" height="677.21" id="spoke02" x="-341.79" y="-338.82" transform="matrix(1 0 0 -1 497 436)" overflow="visible"/>
 </g>
 <defs>
 	
-		<filter id="Adobe_OpacityMaskFilter_00000062174564363255417200000011168138541712187060_" filterUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21">
+		<filter id="Adobe_OpacityMaskFilter_00000143606436626456717310000001444003319404405124_" filterUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21">
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke01_00000065764607261864695130000015782378571339320985_">
-	<g id="masks" filter="url(#Adobe_OpacityMaskFilter_00000062174564363255417200000011168138541712187060_)">
+<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke01_00000019668144792343012330000016864574930637084087_">
+	<g id="masks" filter="url(#Adobe_OpacityMaskFilter_00000143606436626456717310000001444003319404405124_)">
 		
 			<rect id="_x7B__x7B_p:people_x5F_vaccinated_x2C_g:spokePath01_x7D__x7D_" x="504.29" y="331.49" transform="matrix(-0.5 0.866 -0.866 -0.5 1165.6064 220.0174)" fill="#FFFFFF" width="30" height="230"/>
 		<path id="_x7B__x7B_spokePath01_x7D__x7D_" fill="none" d="M619.5,503.99l152.42,88"/>
 	</g>
 </mask>
-<g mask="url(#spoke01_00000065764607261864695130000015782378571339320985_)">
+<g mask="url(#spoke01_00000019668144792343012330000016864574930637084087_)">
 	
 		<use xlink:href="#radarChartAppendages"  width="682.78" height="677.21" id="spoke01" x="-341.79" y="-338.82" transform="matrix(1 0 0 -1 497 436)" overflow="visible"/>
 </g>
 <defs>
 	
-		<filter id="Adobe_OpacityMaskFilter_00000092448745951826691120000014438740272119431864_" filterUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21">
+		<filter id="Adobe_OpacityMaskFilter_00000100349664717299014130000018321492873502098090_" filterUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21">
 		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
 	</filter>
 </defs>
-<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke00_00000122707078005901195770000006823761384142299778_">
-	<g id="mask" filter="url(#Adobe_OpacityMaskFilter_00000092448745951826691120000014438740272119431864_)">
+<mask maskUnits="userSpaceOnUse" x="155.21" y="97.61" width="682.78" height="677.21" id="spoke00_00000133497929019254463520000009741536102589568389_">
+	<g id="mask" filter="url(#Adobe_OpacityMaskFilter_00000100349664717299014130000018321492873502098090_)">
 		<rect id="_x7B__x7B_p:population_x2C_g:spokePath00_x7D__x7D_" x="483" y="294" fill="#FFFFFF" width="30" height="230"/>
 		<path id="_x7B__x7B_spokePath00_x7D__x7D_" fill="none" d="M498,294V118"/>
 	</g>
 </mask>
-<g mask="url(#spoke00_00000122707078005901195770000006823761384142299778_)">
+<g mask="url(#spoke00_00000133497929019254463520000009741536102589568389_)">
 	
 		<use xlink:href="#radarChartAppendages"  width="682.78" height="677.21" id="spoke00_00000113333586665212920960000000007626123573547141_" x="-341.79" y="-338.82" transform="matrix(1 0 0 -1 497 436)" overflow="visible"/>
 </g>
@@ -17726,14 +17726,14 @@ cRueB0+3fNWr7597NeA//ekbYhD+v72R238DN5NW3Psfuv8AAAAASUVORK5CYII=" transform="mat
 <use xlink:href="#radarChart"  width="682.78" height="677.21" id="radarChart_x5F_core_00000181063663709949873730000003042874887370863490_" x="-342.02" y="-339.13" transform="matrix(1 0 0 -1 497 436)" overflow="visible"/>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000078009604160883460960000015887888240046000277_">
 	<g id="_x7B__x7B_people_x5F_fully_x5F_vaccinated_x7C_c_x7D__x7D_">
-		<text transform="matrix(1 0 0 1 -116.4493 648.9839)" fill="#7A66D3" font-family="'Barlow-Regular'" font-size="24px">{{people_fully_vaccinated|c}}</text>
+		<text transform="matrix(1 0 0 1 -116.4493 648.9839)" fill="#207FDC" font-family="'Barlow-Regular'" font-size="24px">{{people_fully_vaccinated|c}}</text>
 	</g>
 </g>
 <g>
 	<text transform="matrix(1 0 0 1 131.8252 597.9845)"><tspan x="0" y="0" font-family="'Barlow-Medium'" font-size="24px">Fully</tspan><tspan x="-69.43" y="24" font-family="'Barlow-Medium'" font-size="24px">Vaccinated</tspan></text>
 </g>
 <g id="_x7B__x7B_people_x5F_vaccinated_x7C_c_x7D__x7D_">
-	<text transform="matrix(1 0 0 1 815.9999 648.9839)" fill="#BA6B15" font-family="'Barlow-Regular'" font-size="24px">{{people_vaccinated|c}}</text>
+	<text transform="matrix(1 0 0 1 815.9999 648.9839)" fill="#207FDC" font-family="'Barlow-Regular'" font-size="24px">{{people_vaccinated|c}}</text>
 </g>
 <g>
 	<text transform="matrix(1 0 0 1 815.9999 597.9839)"><tspan x="0" y="0" font-family="'Barlow-Medium'" font-size="24px">Partially</tspan><tspan x="0" y="24" font-family="'Barlow-Medium'" font-size="24px">Vaccinated</tspan></text>
