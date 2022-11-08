@@ -3942,145 +3942,145 @@ kUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEo+C/w+kkrszYf5lZQAAAABJRU5ErkJggg==" transform=
 </symbol>
 <g id="_x7B__x7B_f:4_x7D__x7D_">
 	<g id="_x7B__x7B__x40_0_x7D__x7D__00000119808568272431274090000005166464269103298450_">
-		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 1087.1372 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
+		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 1067.1372 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
-		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 980 113)" overflow="visible"/>
+		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 960 113)" overflow="visible"/>
 	
-		<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D__00000040559622660501004880000005227788665201144984_" x="1044" y="258" fill="#1972BC" width="90" height="570"/>
+		<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D__00000040559622660501004880000005227788665201144984_" x="1024" y="258" fill="#1972BC" width="90" height="570"/>
 	
-		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 980 113)" overflow="visible"/>
+		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 960 113)" overflow="visible"/>
 	<g id="_x7B__x7B_py:_x23_0_x2C_g:valuePath4_x2C_o:.5_x3B_1_x7D__x7D_">
-		<g id="spacer_00000050658862926908985140000017088617119735043739_">
-			<rect x="1013" y="780" fill="none" width="150" height="48"/>
+		<g id="spacer_00000120545818828963412200000016464358397460945034_">
+			<rect x="993" y="780" fill="none" width="150" height="48"/>
 		</g>
 		<g id="_x7B__x7B_ta:middle_x7D__x7D__00000044858848015760004700000007561581820723413901_">
-			<text transform="matrix(1 0 0 1 1017.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
+			<text transform="matrix(1 0 0 1 997.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
 </g>
 <g id="_x7B__x7B_f:3_x7D__x7D_">
-	<g id="_x7B__x7B__x40_0_x7D__x7D__00000113312166914770644890000008911223490380458685_">
-		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 907.1371 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
+	<g id="_x7B__x7B__x40_0_x7D__x7D__00000118371347198422019380000016218681786882352573_">
+		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 887.1371 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
-		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 800 113)" overflow="visible"/>
+		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 780 113)" overflow="visible"/>
 	
-		<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D__00000094617655403102391950000002226621688271976576_" x="864" y="258" fill="#1972BC" width="90" height="570"/>
+		<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D__00000120527488980427989390000007752375367513983917_" x="844" y="258" fill="#1972BC" width="90" height="570"/>
 	
-		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 800 113)" overflow="visible"/>
+		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 780 113)" overflow="visible"/>
 	<g id="_x7B__x7B_py:_x23_0_x2C_g:valuePath3_x2C_o:.5_x3B_1_x7D__x7D_">
 		<g id="spacer_00000043419956634057969730000016084323505771587459_">
-			<rect x="833" y="780" fill="none" width="150" height="48"/>
+			<rect x="813" y="780" fill="none" width="150" height="48"/>
 		</g>
 		<g id="_x7B__x7B_ta:middle_x7D__x7D__00000091005007064795799200000004785739990845551800_">
-			<text transform="matrix(1 0 0 1 837.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
+			<text transform="matrix(1 0 0 1 817.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
 </g>
 <g id="_x7B__x7B_f:2_x7D__x7D_">
 	<g id="_x7B__x7B__x40_0_x7D__x7D__00000075125882796532339740000012153966351411607442_">
-		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 727.1371 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
+		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 707.1371 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
-		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 620 113)" overflow="visible"/>
+		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 600 113)" overflow="visible"/>
 	
-		<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D__00000015344099345808874040000000419602694215689618_" x="684" y="258" fill="#1972BC" width="90" height="570"/>
+		<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D__00000015344099345808874040000000419602694215689618_" x="664" y="258" fill="#1972BC" width="90" height="570"/>
 	
-		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 620 113)" overflow="visible"/>
+		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 600 113)" overflow="visible"/>
 	<g id="_x7B__x7B_py:_x23_0_x2C_g:valuePath2_x2C_o:.5_x3B_1_x7D__x7D_">
-		<g id="spacer_00000131328799847312984960000002409561862377473172_">
-			<rect x="653" y="780" fill="none" width="150" height="48"/>
+		<g id="spacer_00000059990949410365301460000013029324598518310273_">
+			<rect x="633" y="780" fill="none" width="150" height="48"/>
 		</g>
 		<g id="_x7B__x7B_ta:middle_x7D__x7D__00000155847707956294417790000018296201936526940594_">
-			<text transform="matrix(1 0 0 1 657.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
+			<text transform="matrix(1 0 0 1 637.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
 </g>
 <g id="_x7B__x7B_f:1_x7D__x7D_">
-	<g id="_x7B__x7B__x40_0_x7D__x7D__00000120556375411731361920000017150747468490872967_">
-		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 547.1371 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
+	<g id="_x7B__x7B__x40_0_x7D__x7D__00000060021234553621543080000011265340655194187443_">
+		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 527.1371 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
-		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 440 113)" overflow="visible"/>
+		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 420 113)" overflow="visible"/>
 	
-		<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D__00000158717720949268531370000000255927186719023246_" x="504" y="258" fill="#1972BC" width="90" height="570"/>
+		<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D__00000014621524863719442840000009355611800458731170_" x="484" y="258" fill="#1972BC" width="90" height="570"/>
 	
-		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 440 113)" overflow="visible"/>
+		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 420 113)" overflow="visible"/>
 	<g id="_x7B__x7B_py:_x23_0_x2C_g:valuePath1_x2C_o:.5_x3B_1_x7D__x7D_">
 		<g id="spacer_00000110442687676896143330000011620299367034752156_">
-			<rect x="473" y="780" fill="none" width="150" height="48"/>
+			<rect x="453" y="780" fill="none" width="150" height="48"/>
 		</g>
 		<g id="_x7B__x7B_ta:middle_x7D__x7D__00000044140504265880860660000005113613542009153201_">
 			
-				<text id="_x7B__x7B__x23_0_x7C_c_x7D__x7D__00000169551587639484149670000004126955321451428483_" transform="matrix(1 0 0 1 477.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
+				<text id="_x7B__x7B__x23_0_x7C_c_x7D__x7D__00000172432582867358796940000003256071307854255779_" transform="matrix(1 0 0 1 457.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
 </g>
 <g id="_x7B__x7B_f:0_x7D__x7D_">
 	<g id="_x7B__x7B__x40_0_x7D__x7D__00000032615794762057007660000017793116958136426935_">
-		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 367.1372 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
+		<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 347.1372 876.8286)" font-family="'Barlow-Regular'" font-size="28px">{{@0}}</text>
 	</g>
 	
-		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 260 113)" overflow="visible"/>
-	<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D_" x="324" y="258" fill="#1972BC" width="90" height="570"/>
+		<use xlink:href="#vialBackground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 240 113)" overflow="visible"/>
+	<rect id="_x7B__x7B_sy:_x23_0_x2C_o:0.5_x3B_1.0_x7D__x7D_" x="304" y="258" fill="#1972BC" width="90" height="570"/>
 	
-		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 260 113)" overflow="visible"/>
+		<use xlink:href="#vialForeground"  width="220.01" height="829" y="-829" transform="matrix(1 0 0 -1 240 113)" overflow="visible"/>
 	<g id="_x7B__x7B_py:_x23_0_x2C_g:valuePath0_x2C_o:.5_x3B_1_x7D__x7D_">
-		<g id="spacer_00000183242118167169893890000013061048951623776896_">
-			<rect x="293" y="780" fill="none" width="150" height="48"/>
+		<g id="spacer_00000036214646320815775650000005206868963526006966_">
+			<rect x="273" y="780" fill="none" width="150" height="48"/>
 		</g>
 		<g id="_x7B__x7B_ta:middle_x7D__x7D_">
 			
-				<text id="_x7B__x7B__x23_0_x7C_c_x7D__x7D_" transform="matrix(1 0 0 1 297.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
+				<text id="_x7B__x7B__x23_0_x7C_c_x7D__x7D_" transform="matrix(1 0 0 1 277.9995 817)" fill="#136399" font-family="'Barlow-Bold'" font-size="40px">{{#0|c}}</text>
 		</g>
 	</g>
 </g>
-<line id="_x7B__x7B_valuePath4_x7D__x7D__00000023264740872463758000000014932432004725180811_" fill="none" x1="1089" y1="828" x2="1089" y2="258"/>
-<line id="_x7B__x7B_valuePath3_x7D__x7D__00000174571831057562837950000005995547571415199905_" fill="none" x1="908" y1="828" x2="908" y2="258"/>
-<line id="_x7B__x7B_valuePath2_x7D__x7D__00000092436528927928354030000017260960198023031181_" fill="none" x1="728" y1="828" x2="728" y2="258"/>
-<line id="_x7B__x7B_valuePath1_x7D__x7D__00000114071689095988181320000009301391438053396140_" fill="none" x1="548" y1="828" x2="548" y2="258"/>
-<line id="_x7B__x7B_valuePath0_x7D__x7D__00000142156734653760179010000009598685237364244141_" fill="none" x1="368" y1="828" x2="368" y2="258"/>
+<line id="_x7B__x7B_valuePath4_x7D__x7D__00000032615757788631318040000011350253769505168822_" fill="none" x1="1069" y1="828" x2="1069" y2="258"/>
+<line id="_x7B__x7B_valuePath3_x7D__x7D__00000139972096730395847680000010291279808616286874_" fill="none" x1="888" y1="828" x2="888" y2="258"/>
+<line id="_x7B__x7B_valuePath2_x7D__x7D__00000100348836758320406500000001649717199667420312_" fill="none" x1="708" y1="828" x2="708" y2="258"/>
+<line id="_x7B__x7B_valuePath1_x7D__x7D__00000070106032263615515820000017914340796989745807_" fill="none" x1="528" y1="828" x2="528" y2="258"/>
+<line id="_x7B__x7B_valuePath0_x7D__x7D__00000026876570261286829710000015304759212088260540_" fill="none" x1="348" y1="828" x2="348" y2="258"/>
 <g id="_x7B__x7B_ta:end_x7D__x7D__00000094610278684637193860000003632332164877178007_">
-	<text transform="matrix(1 0 0 1 106.5597 838.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0}}</text>
-	<text transform="matrix(1 0 0 1 83.7677 725.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0.2}}</text>
-	<text transform="matrix(1 0 0 1 83.3478 610.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0.4}}</text>
-	<text transform="matrix(1 0 0 1 84.3556 496.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0.6}}</text>
-	<text transform="matrix(1 0 0 1 84.1876 382.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0.8}}</text>
-	<text transform="matrix(1 0 0 1 112.5792 269.1483)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:1}}</text>
+	<text transform="matrix(1 0 0 1 86.5597 838.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0}}</text>
+	<text transform="matrix(1 0 0 1 63.7677 725.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0.2}}</text>
+	<text transform="matrix(1 0 0 1 63.3478 610.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0.4}}</text>
+	<text transform="matrix(1 0 0 1 64.3556 496.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0.6}}</text>
+	<text transform="matrix(1 0 0 1 64.1876 382.1487)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:0.8}}</text>
+	<text transform="matrix(1 0 0 1 92.5792 269.1483)" font-family="'Barlow-Regular'" font-size="28px">{{#0|c,r:1}}</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 671.0002 1097.8938)" font-family="'Barlow-Medium'" font-size="34px">Vaccine</text>
+	<text transform="matrix(1 0 0 1 651.0002 1097.8938)" font-family="'Barlow-Medium'" font-size="34px">Vaccine</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 91.4683 210.8934)" font-family="'Barlow-Medium'" font-size="34px">Countries</text>
+	<text transform="matrix(1 0 0 1 71.4683 210.8934)" font-family="'Barlow-Medium'" font-size="34px">Countries</text>
 </g>
-<text transform="matrix(1 0 0 1 377 77.9677)" font-family="'Barlow-Regular'" font-size="48px">Top 5 Vaccines By Country Usage </text>
+<text transform="matrix(1 0 0 1 357 77.9677)" font-family="'Barlow-Regular'" font-size="48px">Top 5 Vaccines By Country Usage </text>
 <g id="y_axis_lines" opacity="0.3">
 	<g>
 		<g>
 			
-				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="253" y1="829" x2="1213" y2="829"/>
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="233" y1="829" x2="1193" y2="829"/>
 		</g>
 		<g>
 			
-				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="253" y1="715" x2="1213" y2="715"/>
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="233" y1="715" x2="1193" y2="715"/>
 		</g>
 		<g>
 			
-				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="253" y1="601" x2="1213" y2="601"/>
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="233" y1="601" x2="1193" y2="601"/>
 		</g>
 		<g>
 			
-				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="253" y1="487" x2="1213" y2="487"/>
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="233" y1="487" x2="1193" y2="487"/>
 		</g>
 		<g>
 			
-				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="253" y1="373" x2="1213" y2="373"/>
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="233" y1="373" x2="1193" y2="373"/>
 		</g>
 		<g>
 			
-				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="253" y1="259" x2="1213" y2="259"/>
+				<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,4" x1="233" y1="259" x2="1193" y2="259"/>
 		</g>
 	</g>
 </g>
